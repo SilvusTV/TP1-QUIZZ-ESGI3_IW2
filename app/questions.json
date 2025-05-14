@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "type": "text",
+    "answer": "Canberra"
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "type": "radio",
+    "options": [
+      { "label": "Sahara", "value": "option1" },
+      { "label": "Gobi", "value": "option2" },
+      { "label": "Kalahari", "value": "option3" },
+      { "label": "Antarctique", "value": "option4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Parmi ces œuvres, lesquelles ont été écrites par Victor Hugo ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "Les Misérables", "value": "option1", "isCorrect": true },
+      { "label": "L'Étranger", "value": "option2" },
+      { "label": "Notre-Dame de Paris", "value": "option3", "isCorrect": true },
+      { "label": "Le Rouge et le Noir", "value": "option4" }
+    ]
+  },
+  {
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "type": "radio",
+    "options": [
+      { "label": "1787", "value": "option1" },
+      { "label": "1789", "value": "option2", "isCorrect": true },
+      { "label": "1791", "value": "option3" },
+      { "label": "1793", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Quels pays font partie de l'Union européenne ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "Norvège", "value": "option1" },
+      { "label": "Allemagne", "value": "option2", "isCorrect": true },
+      { "label": "Suisse", "value": "option3" },
+      { "label": "France", "value": "option4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Nommez l'élément chimique dont le symbole est « Au ». ",
+    "type": "text",
+    "answer": "Or"
+  },
+  {
+    "question": "Qui a peint « La Joconde » ?",
+    "type": "radio",
+    "options": [
+      { "label": "Léonard de Vinci", "value": "option1", "isCorrect": true },
+      { "label": "Michel-Ange", "value": "option2" },
+      { "label": "Raphaël", "value": "option3" },
+      { "label": "Titien", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Que signifie l'acronyme « HTML » ?",
+    "type": "text",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Quel langage est principalement utilisé pour le développement back-end ?",
+    "type": "radio",
+    "options": [
+      { "label": "Python", "value": "option1", "isCorrect": true },
+      { "label": "HTML", "value": "option2" },
+      { "label": "CSS", "value": "option3" },
+      { "label": "Markdown", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Quels sont des systèmes d'exploitation basés sur Linux ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "Ubuntu", "value": "option1", "isCorrect": true },
+      { "label": "Windows", "value": "option2" },
+      { "label": "macOS", "value": "option3" },
+      { "label": "Fedora", "value": "option4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Quelle entreprise a créé le processeur Intel Core ?",
+    "type": "radio",
+    "options": [
+      { "label": "AMD", "value": "option1" },
+      { "label": "Intel", "value": "option2", "isCorrect": true },
+      { "label": "NVIDIA", "value": "option3" },
+      { "label": "Qualcomm", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Parmi ces langages, lesquels sont typiquement utilisés pour le développement web front-end ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "JavaScript", "value": "option1", "isCorrect": true },
+      { "label": "Ruby", "value": "option2" },
+      { "label": "CSS", "value": "option3", "isCorrect": true },
+      { "label": "C++", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Quel est le port par défaut du protocole HTTP ?",
+    "type": "text",
+    "answer": "80"
+  },
+  {
+    "question": "Quelle commande Git permet d'initialiser un dépôt local ?",
+    "type": "radio",
+    "options": [
+      { "label": "git clone", "value": "option1" },
+      { "label": "git init", "value": "option2", "isCorrect": true },
+      { "label": "git commit", "value": "option3" },
+      { "label": "git push", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Quel personnage de fiction est connu pour dire « Que la Force soit avec toi » ?",
+    "type": "text",
+    "answer": "Obi-Wan Kenobi"
+  },
+  {
+    "question": "Quel film a popularisé la réplique « I'll be back » ?",
+    "type": "radio",
+    "options": [
+      { "label": "Terminator", "value": "option1", "isCorrect": true },
+      { "label": "Predator", "value": "option2" },
+      { "label": "Rambo", "value": "option3" },
+      { "label": "Alien", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Quels de ces films appartiennent à l'univers Marvel ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "Iron Man", "value": "option1", "isCorrect": true },
+      { "label": "Batman", "value": "option2" },
+      { "label": "Captain America : Le premier Vengeur", "value": "option3", "isCorrect": true },
+      { "label": "Spider-Man : Homecoming", "value": "option4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Qui est l'auteur de la série « Game of Thrones » ?",
+    "type": "radio",
+    "options": [
+      { "label": "J.K. Rowling", "value": "option1" },
+      { "label": "George R.R. Martin", "value": "option2", "isCorrect": true },
+      { "label": "J.R.R. Tolkien", "value": "option3" },
+      { "label": "Stephen King", "value": "option4" }
+    ]
+  },
+  {
+    "question": "Parmi ces groupes, lesquels sont britanniques ?",
+    "type": "checkbox",
+    "options": [
+      { "label": "The Beatles", "value": "option1", "isCorrect": true },
+      { "label": "Nirvana", "value": "option2" },
+      { "label": "Coldplay", "value": "option3", "isCorrect": true },
+      { "label": "The Rolling Stones", "value": "option4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Quel est le nom complet du super-héros connu sous le nom de « Black Panther » dans l’univers Marvel ?",
+    "type": "text",
+    "answer": "T'Challa"
+  }
+]
